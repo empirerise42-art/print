@@ -1,0 +1,9 @@
+=== DEBUG LOG 2026-08-17 19:12:00.406716 ===
+[19:12:00.407] ============================================================
+[19:12:00.408] A4 Poster Studio - DEBUG MODE
+[19:12:00.408] ============================================================
+[19:12:00.490] QApplication OK
+[19:12:00.506] PosterStudio.__init__ start
+[19:12:00.608] PosterStudio.__init__ done
+[19:12:00.609] Window created, showing...
+[19:12:00.656] Window shown, entering main loop...
